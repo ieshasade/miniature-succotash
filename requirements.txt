@@ -1,0 +1,8 @@
+# Core dependencies for automation tasks
+# Add your project dependencies here
+
+# Example dependencies (uncomment as needed):
+# requests==2.31.0
+# python-dotenv==1.0.0
+# schedule==1.2.0
+# Click==8.1.7
